@@ -6,7 +6,7 @@
  data, we aimed to find ways to improve efficiency and sales performance.
  
 ## DASHBOARD
-<img src="PowerBI/Sales performance dash.png">
+<img src="Images/Inventory_Dash.png">
 <img src="PowerBI/Sales performance dash1.png">
 <img src="PowerBI/Sales performance dash2.png">
 
