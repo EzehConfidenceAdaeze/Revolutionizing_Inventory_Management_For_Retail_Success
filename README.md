@@ -7,8 +7,8 @@
  
 ## DASHBOARD
 <img src="Images/Inventory_Dash.png">
-<img src="PowerBI/Sales performance dash1.png">
-<img src="PowerBI/Sales performance dash2.png">
+<img src="Images/Inventory_Restock_Table.png">
+<img src="Images/Sales_Inventory_Dash.png">
 
 ## TECH STACK: 
 - PowerBI
