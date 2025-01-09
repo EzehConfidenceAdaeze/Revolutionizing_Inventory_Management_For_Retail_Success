@@ -4,11 +4,6 @@
  The goal of this project was to help a retail chain with multiple stores minimize
  stockouts and reduce overstocking. By analyzing their inventory and sales
  data, we aimed to find ways to improve efficiency and sales performance.
- 
-## DASHBOARD
-<img src="Images/Inventory_Dash.png">
-<img src="Images/Inventory_Restock_Table.png">
-<img src="Images/Sales_Inventory_Dash.png">
 
 ## TECH STACK: 
 - PowerBI
@@ -48,6 +43,11 @@
 3. There’s untapped potential in optimizing sales by store. High-performing
  stores like Cassandraton and Lisatown offer clues to improve
  underperforming locations
+
+## DASHBOARD
+<img src="Images/Inventory_Dash.png">
+<img src="Images/Inventory_Restock_Table.png">
+<img src="Images/Sales_Inventory_Dash.png">
 
 ## RECOMMENDATIONS:  
 
