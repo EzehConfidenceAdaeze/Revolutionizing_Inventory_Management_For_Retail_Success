@@ -1,4 +1,4 @@
-## Inventory Management Data Cleaning Using MySQL
+#Inventory Management Data Cleaning Using MySQL
 
 This project focused on cleaning and standardizing an inventory management dataset using MySQL to ensure data accuracy, consistency, 
 and readiness for analysis. The dataset included multiple tables: stores, products_table, sales, restocks, inventory, and suppliers. The data cleaning tasks involved identifying and handling duplicates, null values, invalid entries, and inconsistencies across all tables. Key steps included:
