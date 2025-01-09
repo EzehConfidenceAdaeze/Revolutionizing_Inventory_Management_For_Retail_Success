@@ -60,7 +60,3 @@
  outperform others, then replicate those strategies across the business.
 **4. Focus on Efficiency Metrics:** Regularly track sell-through rate, stockout
  rate, restock-to-sales ratio, and DIO to keep inventory levels healthy
-
-
-
-<a href="PowerBI/TITE SALES PERFORMANCE ANALYSIS.pptx">Click Here to Download the PowerPoint Report for Full Insights and Recommendations</a>
